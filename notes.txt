@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Toko Pak Edgy",
+    "code": "002-1631004259774",
+    "location": "Jakarta Timur",
+    "category": "Midi",
+    "createdAt": "2023-09-25T04:38:33.478Z",
+    "updatedAt": "2023-09-25T04:38:33.478Z"
+  },
+  {
+    "id": 2,
+    "name": "Waroeng Bu Wait",
+    "code": "003-1631004336841",
+    "location": "Bogor Barat",
+    "category": "Express",
+    "createdAt": "2023-09-25T04:38:33.478Z",
+    "updatedAt": "2023-09-25T04:38:33.478Z"
+  },
+  {
+    "id": 3,
+    "name": "Beta April",
+    "code": "001-1631004440279",
+    "location": "Medan Barat",
+    "category": "Mart",
+    "createdAt": "2023-09-25T04:38:33.478Z",
+    "updatedAt": "2023-09-25T04:38:33.478Z"
+  },
+  {
+    "id": 4,
+    "name": "Charlie Mei",
+    "code": "003-1631004458824",
+    "location": "Tangerang Selatan",
+    "category": "Express",
+    "createdAt": "2023-09-25T04:38:33.478Z",
+    "updatedAt": "2023-09-25T04:38:33.478Z"
+  }
+]
+
+[
+
+  {
+    "id": 1,
+    "firstName": "Paulo",
+    "lastName": "Willy",
+    "dateOfBirth": "2003-12-06T00:00:00.000Z",
+    "education": "SMA",
+    "position": "Manager",
+    "salary": 7000000,
+    "StoreId": 2,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 2,
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "dateOfBirth": "1990-05-15T00:00:00.000Z",
+    "education": "S1",
+    "position": "Supervisor",
+    "salary": 4000000,
+    "StoreId": 3,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 3,
+    "firstName": "John",
+    "lastName": "Doe",
+    "dateOfBirth": "1985-08-23T00:00:00.000Z",
+    "education": "S2",
+    "position": "Manager",
+    "salary": 8000000,
+    "StoreId": 1,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 4,
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "dateOfBirth": "1995-04-10T00:00:00.000Z",
+    "education": "S1",
+    "position": "Staff",
+    "salary": 2500000,
+    "StoreId": 2,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 5,
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "dateOfBirth": "1988-11-20T00:00:00.000Z",
+    "education": "SMA",
+    "position": "Supervisor",
+    "salary": 3500000,
+    "StoreId": 3,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 6,
+    "firstName": "Sophia",
+    "lastName": "Wilson",
+    "dateOfBirth": "1998-02-17T00:00:00.000Z",
+    "education": "S1",
+    "position": "CEO",
+    "salary": 9000000,
+    "StoreId": 1,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 7,
+    "firstName": "William",
+    "lastName": "Miller",
+    "dateOfBirth": "1993-07-08T00:00:00.000Z",
+    "education": "S1",
+    "position": "Manager",
+    "salary": 7500000,
+    "StoreId": 2,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 8,
+    "firstName": "Olivia",
+    "lastName": "Anderson",
+    "dateOfBirth": "1997-09-30T00:00:00.000Z",
+    "education": "S3",
+    "position": "Staff",
+    "salary": 1800000,
+    "StoreId": 3,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 9,
+    "firstName": "James",
+    "lastName": "Johnson",
+    "dateOfBirth": "1991-03-05T00:00:00.000Z",
+    "education": "S2",
+    "position": "Manager",
+    "salary": 8700000,
+    "StoreId": 1,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  },
+  {
+    "id": 10,
+    "firstName": "Ava",
+    "lastName": "Davis",
+    "dateOfBirth": "1999-06-12T00:00:00.000Z",
+    "education": "SMA",
+    "position": "Supervisor",
+    "salary": 3000000,
+    "StoreId": 2,
+    "createdAt": "2023-09-25T09:42:55.438Z",
+    "updatedAt": "2023-09-25T09:42:55.438Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+    {
+      "firstName": "Paulo",
+      "lastName": "Willy",
+      "dateOfBirth": "2003-12-06T00:00:00.000Z",
+      "education": "SMA",
+      "position": "Manager",
+      "StoreId": 2,
+      "salary": 7000000
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "dateOfBirth": "1990-05-15T00:00:00.000Z",
+      "education": "S1",
+      "position": "Supervisor",
+      "StoreId": 3,
+      "salary": 4000000
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "1985-08-23T00:00:00.000Z",
+      "education": "S2",
+      "position": "Manager",
+      "StoreId": 1,
+      "salary": 8000000
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "dateOfBirth": "1995-04-10T00:00:00.000Z",
+      "education": "S1",
+      "position": "Staff",
+      "StoreId": 2,
+      "salary": 2500000
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "dateOfBirth": "1988-11-20T00:00:00.000Z",
+      "education": "SMA",
+      "position": "Supervisor",
+      "StoreId": 3,
+      "salary": 3500000
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Wilson",
+      "dateOfBirth": "1998-02-17T00:00:00.000Z",
+      "education": "S1",
+      "position": "CEO",
+      "StoreId": 1,
+      "salary": 9000000
+    },
+    {
+      "firstName": "William",
+      "lastName": "Miller",
+      "dateOfBirth": "1993-07-08T00:00:00.000Z",
+      "education": "S1",
+      "position": "Manager",
+      "StoreId": 2,
+      "salary": 7500000
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Anderson",
+      "dateOfBirth": "1997-09-30T00:00:00.000Z",
+      "education": "S3",
+      "position": "Staff",
+      "StoreId": 3,
+      "salary": 1800000
+    },
+    {
+      "firstName": "James",
+      "lastName": "Johnson",
+      "dateOfBirth": "1991-03-05T00:00:00.000Z",
+      "education": "S2",
+      "position": "Manager",
+      "StoreId": 1,
+      "salary": 8700000
+    },
+    {
+      "firstName": "Ava",
+      "lastName": "Davis",
+      "dateOfBirth": "1999-06-12T00:00:00.000Z",
+      "education": "SMA",
+      "position": "Supervisor",
+      "StoreId": 2,
+      "salary": 3000000
+    }
+  ]
